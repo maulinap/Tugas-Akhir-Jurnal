@@ -7,4 +7,4 @@ Dipublikasikan : Journal of Applied Informatics and Computing JAIC, Sinta 3, Vol
 Data yang digunakan bersumber dari :
 1. Hasil web scraping ulasan pengguna Google Play Store
 2. Laporan DataReportal Indonesia Digital 2025
-3 We Are Social Report : Publikasi riset digital marketing Indonesia 2
+3. We Are Social Report : Publikasi riset digital marketing Indonesia 2
